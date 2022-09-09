@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mhr9v.test@inbox.testmail.app**
 
-- ⚡ Fun fact **I use Mac and Windows**
+- ⚡ Fun fact **I use MacOS, Linux and Windows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
