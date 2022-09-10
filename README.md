@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a WordPress Website.**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C and Swift**
 
 - 📫 How to reach me **mhr9v.test@inbox.testmail.app**
 
