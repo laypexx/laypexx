@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **C and Swift**
 
-- 📫 How to reach me **mhr9v.test@inbox.testmail.app**
+- 📫 How to reach me: **mhr9v.test@inbox.testmail.app**
 
 - ⚡ Fun fact **I use MacOS, Linux and Windows**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://instagram.com/dodo58er" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dodo58er" height="30" width="40" /></a>
 </p>
