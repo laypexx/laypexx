@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C and Swift**
 
-- 📫 How to reach me: **mhr9v.test@inbox.testmail.app**
+- 📫 How to reach me: **kontakt@dsprenger.de**
 
 - ⚡ Fun fact **I use MacOS, Linux and Windows**
 
