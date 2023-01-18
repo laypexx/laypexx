@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on **a WordPress Website and a iOS App.**
+- 🔭 I’m currently working on **a WordPress Website and an iOS App.**
 
 - 🌱 I’m currently learning **C and Swift**
 
