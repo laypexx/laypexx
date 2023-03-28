@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a WordPress Website and an iOS App.**
 
-- 🌱 I’m currently learning **C and Swift**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me: **kontakt@dsprenger.de**
 
