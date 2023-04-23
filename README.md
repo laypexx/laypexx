@@ -3,7 +3,7 @@
 
 - 🔭 I’m always working on **my Website.**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me: **kontakt@dsprenger.de**
 
