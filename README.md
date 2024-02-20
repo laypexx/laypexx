@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m always working on **my Website.**
+- 🔭 I’m always working on **my Java Skills.**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Vue.js.**
 
 - 📫 How to reach me: **kontakt@dsprenger.de**
 
