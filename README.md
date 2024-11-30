@@ -3,13 +3,9 @@
 
 - 🔭 I’m always working on **my Java Skills.**
 
-- 🌱 I’m currently learning **Vue.js.**
-
-- 📫 How to reach me: **kontakt@dsprenger.de**
+- 🌱 I’m currently learning **Java**
 
 - ⚡ Fun fact **I use MacOS, Linux and Windows**
-
-- 💻 My Website: https://www.dominicsprenger.de/ or https://www.dsprenger.de/
 
 ### Languages and Tools:
 <p align="left"> 
